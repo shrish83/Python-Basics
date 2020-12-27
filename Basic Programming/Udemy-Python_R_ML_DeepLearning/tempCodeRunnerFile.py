@@ -1,1 +1,0 @@
-print(data.head(10))
