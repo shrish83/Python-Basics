@@ -1,0 +1,9 @@
+1. Linear Regression
+2. Logistic Regression(Binary and Multiclass)
+3. Decision Trees
+4. Naive Bayes
+5. Support Vector Machine
+
+
+Linear Regression Question - Predition of house prices in BEngaluru
+Logistic Regression - HR Analytics Kaggle

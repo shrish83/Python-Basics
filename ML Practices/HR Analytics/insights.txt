@@ -1,0 +1,18 @@
+Categorical variables: left, department, salary,number_project,time_spend_company, work_accident, promotion_last5Yrs 
+Continuous variables: satisfaction_level, last_evaluation,average_monthly_hours
+
+
+Insights made from visualizations made
+
+1. Lesser number of employees leaving the firm as compared to those who stay
+2. The dataset contains more number of employees from the Sales, technical and support department as compared to management and HR.
+3. The salary is low for most of the employees, a few have mefdium and least have high salary.
+4. Mostly employees have taken 3 to 4 projects in the firm they work.
+5. Mostly people spend 3 years at max in a firm and a very few spend mor ethan 6 years.
+6. Mostly people have not faced an accident while they work in the firm.
+7. Rarely people have been given promotion in the last five years.
+8. THose who left had mean satisfaction level of 0.4 and those who didn't leave had mean satisfaction level above 0.6.
+9. Majorly who left either had average or ver high last_Evaluation.
+10. Those who left worked for extreme hours in that firm.
+
+THose who didn't leave the firm were either freshers(1yrs) or had spent more than 6 years. 
