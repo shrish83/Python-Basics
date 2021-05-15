@@ -1,0 +1,19 @@
+1. Linear Algebra  in DL
+   - MAtrices and Vectors
+   - Matrix Multiplication, Transpose, Inverse, EigenValue, EigenVectors,
+   - Singular Value Decomposition
+
+2. Differential Calculus in Gradient Descents Optimizers, Loss Functions
+   - Maxima Minima
+   - chain rule of differentiation
+   - partial derivatives
+
+3. Discrete Maths
+4. Probability Theory - Baye's Law, Central Limit Theorem
+5. Numerical Analysis(Time Series Analysis, Forecasting)
+6. Core ML methods (Clustering, DTs)
+
+Main resources from where you cn learn
+ - 3Blue1Brown
+ - StatQuest
+ - 
